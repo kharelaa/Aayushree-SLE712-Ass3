@@ -1,0 +1,2 @@
+The script used allow us to find the limtation of BLAST. In this assignment,  we are able to introduce modifications to the script that is produced using the seqeucne of E.coli. My script works from 10-900 after which the blast stops.
+
