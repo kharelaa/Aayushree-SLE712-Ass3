@@ -1,4 +1,4 @@
 The script used allows us to find the limtation of BLAST. 
-In this assignment,  we are able to introduce modifications to the sequence provided (#6) and it was compared against CDS.
+In this assignment,  we used msbar to introduce modifications to the sequence provided (#6) and it was compared against CDS.
 The script worked for sequence #6 up to 900 mutations, after which the blast stopped.
 
